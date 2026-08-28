@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Funngro Revamp",
+  "description": "Funngro connects talented teens with companies for freelance projects. Teens gain real-world skills and earn money, while companies hire smart young talent.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
